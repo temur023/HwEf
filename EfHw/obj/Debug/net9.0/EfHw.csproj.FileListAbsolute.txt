@@ -132,3 +132,5 @@ D:\Alif\EfHw\EfHw\obj\Debug\net9.0\refint\EfHw.dll
 D:\Alif\EfHw\EfHw\obj\Debug\net9.0\EfHw.pdb
 D:\Alif\EfHw\EfHw\obj\Debug\net9.0\EfHw.genruntimeconfig.cache
 D:\Alif\EfHw\EfHw\obj\Debug\net9.0\ref\EfHw.dll
+D:\Alif\EfHw\EfHw\obj\Debug\net9.0\EfHw.sourcelink.json
+D:\Alif\EfHw\EfHw\bin\Debug\net9.0\EfHw.staticwebassets.runtime.json

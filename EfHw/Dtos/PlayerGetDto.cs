@@ -22,6 +22,6 @@ public class PlayerGetDto
         Position = player.Position;
         Club = player.Club;
         Nationality = player.Nationality;
-        ProfilePhoto = Path.Combine("https://localhost:5097", "players", player.ProfilePhoto);
+        ProfilePhoto = Path.Combine("https://localhost:5085", "players", player.ProfilePhoto);
     }
 }

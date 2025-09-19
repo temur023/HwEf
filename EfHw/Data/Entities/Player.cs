@@ -16,6 +16,6 @@ public class Player
     public string Club { get; set; }
     [MaxLength(20)] 
     public string Nationality { get; set; }
-    [MaxLength(40)]
+    [MaxLength(200)]
     public string ProfilePhoto { get; set; }
 }
